@@ -1,0 +1,15 @@
+arduino:
+	can only run one thing at a time
+	simple interface
+	cheaper
+	harder to connect to the internet
+	
+	types:
+		arduino uno - basic board, USB type B-to-A cable
+		arduino pro - more complicated, but are breadboard compatible
+	
+raspberry pi:
+	can have multiple programs in the background
+	need to install libraries and software
+	more expensive
+	more easily connected to the internet
